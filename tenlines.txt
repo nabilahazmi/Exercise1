@@ -2,3 +2,5 @@ $ git clone https://github.com/nabilahazmi/Exercise1 ~/Desktop/nabilahazmi-Exerc
 $ cd ~/Desktop/nabilahazmi-Exercise1
 $ nano Exercise1.txt
 $ cat Exercise1.txt
+$ git add Exercise1.txt
+$ git commit -m "Add notes about Pluto"
