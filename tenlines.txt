@@ -1,4 +1,4 @@
-$ git clone https://github.com/nabilahazmi/Exercise1
+$ git clone https://github.com/nabilahazmi/Exercise1 ~/Desktop/nabilahazmi-Exercise1
 $ cd ~/Desktop/nabilahazmi-Exercise1
 $ nano Exercise1.txt
 $ cat Exercise1.txt
