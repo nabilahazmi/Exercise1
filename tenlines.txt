@@ -1,6 +1,6 @@
 $ git clone https://github.com/nabilahazmi/Exercise1 ~/Desktop/nabilahazmi-Exercise1
 $ cd ~/Desktop/nabilahazmi-Exercise1
-$ nano Exercise1.txt
-$ cat Exercise1.txt
-$ git add Exercise1.txt
-$ git commit -m "Add notes about Pluto"
+$ nano tenlines.txt
+$ cat tenlines.txt
+$ git add tenlines.txt
+$ git commit -m "Add notes about Software Engineering"
